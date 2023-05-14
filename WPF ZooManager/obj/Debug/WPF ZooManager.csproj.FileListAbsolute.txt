@@ -1,0 +1,16 @@
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe.config
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.pdb
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.AssemblyReference.cache
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\App.g.cs
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.cache
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.lref
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.baml
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.g.resources
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.GenerateResource.cache
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.exe
+C:\Users\giber\source\repos\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.pdb
